@@ -2,8 +2,5 @@ Hola código
 
 Estas son las primeras pruebas con git y github
 
-<<<<<<< HEAD
 Este código lo hizo Carlos
-=======
-Este código lo hizo Nikolai 
->>>>>>> Autores
+
