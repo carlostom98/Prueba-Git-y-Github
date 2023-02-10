@@ -1,3 +1,6 @@
 Hola código
 
 Estas son las primeras pruebas con git y github
+
+Este código lo hizo Carlos
+
